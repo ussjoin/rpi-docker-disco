@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM resin/rpi-raspbian
 MAINTAINER gijs@pythonic.nl
 ENV DEBIAN_FRONTEND noninteractive
 
